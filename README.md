@@ -1,5 +1,7 @@
 ## Hello
 
+I'll upload information about any theoretical public projects I do.
+
 <!--
 **RobotKeyLimePie/RobotKeyLimePie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
